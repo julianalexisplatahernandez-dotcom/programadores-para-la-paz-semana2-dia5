@@ -1,1 +1,2 @@
-
+¿Por qué es importante para un desarrollador saber usar la terminal para navegar y organizar archivos dentro de un proyecto?
+Para un desarrollador, la terminal no es solo una pantalla negra con letras verdes; es el centro de mando. Aunque las interfaces gráficas (como el explorador de archivos) son cómodas, la terminal ofrece un nivel de control, velocidad y automatización que es fundamental en el flujo de trabajo moderno.
